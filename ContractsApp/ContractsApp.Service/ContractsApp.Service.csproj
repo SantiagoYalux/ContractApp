@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ContractsApp.Dto\ContractsApp.Dto.csproj" />
+    <ProjectReference Include="..\ContractsApp.Helper\ContractsApp.Helper.csproj" />
+    <ProjectReference Include="..\ContractsApp.Model\ContractsApp.Model.csproj" />
+    <ProjectReference Include="..\ContractsApp.Repository\ContractsApp.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
