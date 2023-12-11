@@ -386,8 +386,6 @@ coverage
 .idea
 *.suo
 *.ntvs*
-*.njsproj
-*.sln
 *.sw?
 
 *.tsbuildinfo
